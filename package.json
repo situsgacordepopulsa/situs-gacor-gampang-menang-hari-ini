@@ -1,0 +1,26 @@
+{
+  "name": "situs-gacor-gampang-menang-hari-ini",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Situs slot deposit pulsa tanpa potongan terpercaya dengan rtp tertinggi hari ini. BO gacor paling gampang menang, minimal deposit 10 dan wd jamin bayar.",
+  "keywords": [
+    "slot pulsa tanpa potongan",
+    "daftar slot",
+    "situs slot",
+    "slot gacor",
+    "Slot gacor gampang menang",
+    "situs slot online",
+    "situs slot gacor",
+    "slot gacor gampang menang",
+    "situs slot gampang menang",
+    "situs slot terpercaya",
+    "slot online terpercaya",
+    "slot online gacor",
+    "slot deposit pulsa tanpa potongan"
+  ],
+  "repository": "https://github.com/teamwede/situs-gacor-gampang-menang-hari-ini",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
